@@ -14,7 +14,8 @@ pip install git+https://github.com/Imp1ex/Pass-Reverse.git
 <br>
 
 ## 테스트 해보기
-모든 테스트 파일은 examples 폴더에 있습니다.
+모든 테스트 파일은 examples 폴더에 있습니다.<br>
+[gui를 이용하여 인증하고, callback으로 응답 받는 예제](https://github.com/Imp1ex/Pass-Reverse/blob/main/examples/web/web_callback.py)
 
 <br>
 
