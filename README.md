@@ -15,7 +15,7 @@ PASS(NICE 평가정보) 휴대폰 본인 인증 api를 역공학한 라이브러
 ## 모듈 설치
 
 ```bash
-pip install git+https://github.com/Imp1ex/Pass-Reverse.git
+pip install git+https://github.com/virtual-byte/Pass-Reverse.git
 ```
 
 <br>
